@@ -1,0 +1,11 @@
+ro.boot.dynamic_partitions=true
+ro.vendor.product.cpu.abilist=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.product.board=QC_Reference_Phone
+ro.board.platform=msm8953
+ro.vendor.build.version.sdk=29
+ro.product.vendor.brand=samsung
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.model=SM-A025G
+ro.product.vendor.name=a02qnaxx
+ro.product.vendor.device=a02q
