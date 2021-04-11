@@ -1,9 +1,9 @@
 # Samsung Galaxy A02s 
 
-SM-A025G
-A02qnaeea
-armv8l
-32-bit Arm Binder64
+ - SM-A025G
+ - A02qnaeea
+ - armv8l
+ - 32-bit Arm Binder64
 
 Qualcomm Snapdragon 450 SDM450
  - AArch64 
