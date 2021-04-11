@@ -11,13 +11,13 @@ Qualcomm Snapdragon 450 SDM450
  - 4x 1.80GHz  Cortex-A53
  - 4x 1.80GHz   Cortex-A53
 
-Qualcomm Adreno506 GPU
-3GB RAM
-4900MAH Battery
-Dual Sim
-NFC
-32GB internal storage
-Upto 1TB Micro SD
+Qualcomm Adreno506 GPU, 
+3GB RAM, 
+4900MAH Battery, 
+Dual Sim, 
+NFC, 
+32GB internal storage, 
+Upto 1TB Micro SD. 
 
 ## RECOVERY DEVICE TREE
 
