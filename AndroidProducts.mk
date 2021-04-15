@@ -16,5 +16,9 @@
 # limitations under the License.
 #
 
+
+
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_a02q.mk
+	$(LOCAL_DIR)/omni_a02q.mk
+
+COMMON_LUNCH_CHOICES := omni_a02q-eng
