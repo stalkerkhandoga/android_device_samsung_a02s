@@ -1,0 +1,34 @@
+ 0x000000000000000e (SONAME)             Library soname: [libbmlutils.so]
+  
+Symbol   contains 30 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __fread_chk@LIBC_N (3)
+3:   FUNC GLOBAL DEFAULT UND __fwrite_chk@LIBC_N (3)
+4:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND __read_chk@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND __system
+8:   FUNC GLOBAL DEFAULT UND __vsprintf_chk@LIBC (2)
+9:   FUNC GLOBAL DEFAULT UND __write_chk@LIBC_N (3)
+10:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND fclose@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND fgetc@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND fileno@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND fopen@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND fputc@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND fseek@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND fsync@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND ftell@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND puts@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+23:   FUNC GLOBAL DEFAULT 13 cmd_bml_backup_raw_partit
+24:   FUNC GLOBAL DEFAULT 13 cmd_bml_erase_partition
+25:   FUNC GLOBAL DEFAULT 13 cmd_bml_erase_raw_partiti
+26:   FUNC GLOBAL DEFAULT 13 cmd_bml_get_partition_dev
+27:   FUNC GLOBAL DEFAULT 13 cmd_bml_mount_partition
+28:   FUNC GLOBAL DEFAULT 13 cmd_bml_restore_raw_parti
+29:   FUNC GLOBAL DEFAULT 13 format_rfs_device

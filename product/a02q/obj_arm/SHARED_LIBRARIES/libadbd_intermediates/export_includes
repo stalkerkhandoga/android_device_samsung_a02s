@@ -1,0 +1,1 @@
+-Isystem/core/adb/daemon/include -Isystem/core/qemu_pipe/include -Ibuild/soong/cc/libbuildversion/include

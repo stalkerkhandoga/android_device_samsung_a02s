@@ -1,0 +1,38 @@
+ 0x000000000000000e (SONAME)             Library soname: [libflashutils.so]
+  
+Symbol   contains 34 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND access@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND cmd_bml_backup_raw_partit
+4:   FUNC GLOBAL DEFAULT UND cmd_bml_erase_partition
+5:   FUNC GLOBAL DEFAULT UND cmd_bml_erase_raw_partiti
+6:   FUNC GLOBAL DEFAULT UND cmd_bml_get_partition_dev
+7:   FUNC GLOBAL DEFAULT UND cmd_bml_mount_partition
+8:   FUNC GLOBAL DEFAULT UND cmd_bml_restore_raw_parti
+9:   FUNC GLOBAL DEFAULT UND cmd_mmc_backup_raw_partit
+10:   FUNC GLOBAL DEFAULT UND cmd_mmc_erase_partition
+11:   FUNC GLOBAL DEFAULT UND cmd_mmc_erase_raw_partiti
+12:   FUNC GLOBAL DEFAULT UND cmd_mmc_get_partition_dev
+13:   FUNC GLOBAL DEFAULT UND cmd_mmc_mount_partition
+14:   FUNC GLOBAL DEFAULT UND cmd_mmc_restore_raw_parti
+15:   FUNC GLOBAL DEFAULT UND cmd_mtd_backup_raw_partit
+16:   FUNC GLOBAL DEFAULT UND cmd_mtd_erase_partition
+17:   FUNC GLOBAL DEFAULT UND cmd_mtd_erase_raw_partiti
+18:   FUNC GLOBAL DEFAULT UND cmd_mtd_get_partition_dev
+19:   FUNC GLOBAL DEFAULT UND cmd_mtd_mount_partition
+20:   FUNC GLOBAL DEFAULT UND cmd_mtd_restore_raw_parti
+21:   FUNC GLOBAL DEFAULT UND printf@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND strstr@LIBC (2)
+24:   FUNC GLOBAL DEFAULT 13 erase_partition
+25:   OBJECT GLOBAL DEFAULT 20 the_flash_type
+26:   FUNC GLOBAL DEFAULT 13 backup_raw_partition
+27:   FUNC GLOBAL DEFAULT 13 device_flash_type
+28:   FUNC GLOBAL DEFAULT 13 erase_raw_partition
+29:   FUNC GLOBAL DEFAULT 13 get_default_filesystem
+30:   FUNC GLOBAL DEFAULT 13 get_flash_type
+31:   FUNC GLOBAL DEFAULT 13 get_partition_device
+32:   FUNC GLOBAL DEFAULT 13 mount_partition
+33:   FUNC GLOBAL DEFAULT 13 restore_raw_partition

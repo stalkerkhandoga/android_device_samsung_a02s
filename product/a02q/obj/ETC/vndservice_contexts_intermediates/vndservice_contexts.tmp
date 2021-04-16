@@ -1,0 +1,2 @@
+#line 1 "system/sepolicy/vendor/vndservice_contexts"
+*                       u:object_r:default_android_vndservice:s0

@@ -1,0 +1,12 @@
+-Isystem/core/adb/daemon/include -Isystem/core/qemu_pipe/include -Ibuild/soong/cc/libbuildversion/include
+-Isystem/core/base/include
+-Isystem/core/liblog/include
+-Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include
+-Iexternal/boringssl/src/include -Iexternal/boringssl/src/include
+-Isystem/core/libcrypto_utils/include
+-Ibootable/recovery/fuse_sideload/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Ibionic/libc/include -D__LIBC_API__=10000
+-D__LIBM_API__=10000
+-D__LIBDL_API__=10000
+-Isystem/core/libasyncio/include

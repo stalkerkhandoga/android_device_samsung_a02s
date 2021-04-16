@@ -1,0 +1,2 @@
+/root/out/target/product/a02q/obj/RECOVERY_EXECUTABLES/dump_image_intermediates/dump_image:   /root/out/target/product/a02q/symbols/recovery/root/system/bin/dump_image   prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-nm   prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-objcopy   prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-readelf   prebuilts/clang/host/linux-x86/clang-r353983c1/bin/llvm-strip prebuilts/clang/host/linux-x86/clang-r353983c1/bin/llvm-objcopy
+

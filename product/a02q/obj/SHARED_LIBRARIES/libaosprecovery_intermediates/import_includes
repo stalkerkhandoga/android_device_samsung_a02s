@@ -1,0 +1,24 @@
+-Isystem/core/base/include
+-Ibootable/recovery/bootloader_message/include
+-Iexternal/boringssl/src/include -Iexternal/boringssl/src/include
+-Isystem/extras/ext4_utils/include
+-Isystem/core/fs_mgr/include -Isystem/core/logwrapper/include -Isystem/core/fs_mgr/libdm/include -Iexternal/e2fsprogs/lib/uuid -Iexternal/e2fsprogs/lib -Isystem/core/fs_mgr/include_fstab -Isystem/core/fs_mgr/libfs_avb/include -Isystem/core/fs_mgr/liblp/include
+-Ibootable/recovery/fuse_sideload/include
+-Isystem/tools/hidl/utils/include
+-Isystem/libhidl/base/include -Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include -Isystem/core/libutils/include -Isystem/core/libbacktrace/include -Isystem/core/liblog/include -Isystem/core/libsystem/include -Isystem/libhidl/transport/include -I/root/out/soong/.intermediates/system/libhidl/transport/manager/1.0/android.hidl.manager@1.0_genc++_headers/gen -I/root/out/soong/.intermediates/system/libhidl/transport/manager/1.1/android.hidl.manager@1.1_genc++_headers/gen -I/root/out/soong/.intermediates/system/libhidl/transport/manager/1.2/android.hidl.manager@1.2_genc++_headers/gen -I/root/out/soong/.intermediates/system/libhidl/transport/base/1.0/android.hidl.base@1.0_genc++_headers/gen -Isystem/libhwbinder/include -Isystem/core/base/include
+-Isystem/core/liblog/include
+-Iexternal/selinux/libselinux/include
+-Iexternal/tinyxml2
+-Isystem/core/libutils/include -Isystem/core/libbacktrace/include -Isystem/core/liblog/include -Isystem/core/libsystem/include -Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include
+-Iexternal/zlib
+-Isystem/core/libziparchive/include -Isystem/core/base/include
+-Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Ibionic/libc/include -D__LIBC_API__=10000
+-D__LIBM_API__=10000
+-D__LIBDL_API__=10000
+-Ibootable/recovery/otautil/include
+-Isystem/libvintf/include -Isystem/tools/hidl/utils/include
+-Isystem/libvintf/include -Isystem/libvintf -Isystem/tools/hidl/utils/include
+-Isystem/tools/hidl/utils/include

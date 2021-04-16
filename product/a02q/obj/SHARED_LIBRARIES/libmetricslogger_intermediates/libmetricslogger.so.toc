@@ -1,0 +1,29 @@
+ 0x000000000000000e (SONAME)             Library soname: [libmetricslogger.so]
+  
+Symbol   contains 25 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND _ZN7android4base10boot_cl
+3:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+4:   FUNC GLOBAL DEFAULT UND android_log_destroy@LIBLOG_M (3)
+5:   FUNC GLOBAL DEFAULT UND android_log_write_float32@LIBLOG_M (3)
+6:   FUNC GLOBAL DEFAULT UND android_log_write_int32@LIBLOG_M (3)
+7:   FUNC GLOBAL DEFAULT UND android_log_write_int64@LIBLOG_M (3)
+8:   FUNC GLOBAL DEFAULT UND android_log_write_list@LIBLOG_M (3)
+9:   FUNC GLOBAL DEFAULT UND android_log_write_string8@LIBLOG_M (3)
+10:   FUNC GLOBAL DEFAULT UND android_lookupEventTagNum@LIBLOG_PRIVATE (4)
+11:   FUNC GLOBAL DEFAULT UND android_openEventTagMap@LIBLOG_PRIVATE (4)
+12:   FUNC GLOBAL DEFAULT UND create_android_logger@LIBLOG_M (3)
+13:   FUNC GLOBAL DEFAULT UND write_to_logger
+14:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+15:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+16:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+17:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+18:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+19:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+20:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+21:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+22:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+23:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge
+24:   FUNC GLOBAL DEFAULT 13 _ZN7android13metricslogge

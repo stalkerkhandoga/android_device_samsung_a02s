@@ -1,0 +1,4 @@
+/system/apex/apex\.test/bin/apex_test_preInstallHook  u:object_r:apex_test_prepostinstall_exec:s0
+/system/apex/apex\.test/bin/apex_test_postInstallHook u:object_r:apex_test_prepostinstall_exec:s0
+/system/apex/apex\.test(/.*)?                         u:object_r:system_file:s0
+/system/apex/apex\.test/bin/surfaceflinger            u:object_r:surfaceflinger_exec:s0

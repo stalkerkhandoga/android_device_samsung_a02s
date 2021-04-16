@@ -1,0 +1,110 @@
+ 0x000000000000000e (SONAME)             Library soname: [libexfat_twrp.so]
+  
+Symbol   contains 106 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+4:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND fstat@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND fsync@LIBC (2)
+9:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+10:   FUNC GLOBAL DEFAULT UND lseek64@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND pread64@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND pwrite64@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND read@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND strerror@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND write@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND exit@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND fflush@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND fwrite@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND isatty@LIBC (2)
+21:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+22:   OBJECT GLOBAL DEFAULT UND stdout@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND vfprintf@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND vsyslog@LIBC (2)
+25:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND strchr@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND strlen@LIBC (2)
+28:   FUNC GLOBAL DEFAULT UND strspn@LIBC (2)
+29:   FUNC GLOBAL DEFAULT UND __strlen_chk@LIBC (2)
+30:   FUNC GLOBAL DEFAULT UND getegid@LIBC (2)
+31:   FUNC GLOBAL DEFAULT UND geteuid@LIBC (2)
+32:   FUNC GLOBAL DEFAULT UND strstr@LIBC (2)
+33:   FUNC GLOBAL DEFAULT UND strtol@LIBC (2)
+34:   FUNC GLOBAL DEFAULT UND __memcpy_chk@LIBC (2)
+35:   FUNC GLOBAL DEFAULT UND __strcpy_chk@LIBC (2)
+36:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (2)
+37:   FUNC GLOBAL DEFAULT UND time@LIBC (2)
+38:   FUNC GLOBAL DEFAULT UND gmtime@LIBC (2)
+39:   FUNC GLOBAL DEFAULT UND mktime@LIBC (2)
+40:   FUNC GLOBAL DEFAULT UND tzset@LIBC (2)
+41:   FUNC GLOBAL DEFAULT UND printf@LIBC (2)
+42:   FUNC GLOBAL DEFAULT 13 exfat_c2o
+43:   FUNC GLOBAL DEFAULT 13 exfat_get_mode
+44:   FUNC GLOBAL DEFAULT 13 exfat_vbr_add_checksum
+45:   FUNC GLOBAL DEFAULT 13 exfat_closedir
+46:   FUNC GLOBAL DEFAULT 13 exfat_get_node
+47:   FUNC GLOBAL DEFAULT 13 exfat_calc_checksum
+48:   FUNC GLOBAL DEFAULT 13 exfat_truncate
+49:   FUNC GLOBAL DEFAULT 13 exfat_close
+50:   FUNC GLOBAL DEFAULT 13 exfat_reset_cache
+51:   FUNC GLOBAL DEFAULT 13 exfat_unmount
+52:   FUNC GLOBAL DEFAULT 13 exfat_calc_name_hash
+53:   FUNC GLOBAL DEFAULT 13 exfat_flush_node
+54:   FUNC GLOBAL DEFAULT 13 exfat_generic_pwrite
+55:   FUNC GLOBAL DEFAULT 13 exfat_debug
+56:   FUNC GLOBAL DEFAULT 13 utf8_to_utf16
+57:   FUNC GLOBAL DEFAULT 13 exfat_mkdir
+58:   FUNC GLOBAL DEFAULT 13 exfat_utimes
+59:   FUNC GLOBAL DEFAULT 13 utf16_to_utf8
+60:   FUNC GLOBAL DEFAULT 13 exfat_humanize_bytes
+61:   FUNC GLOBAL DEFAULT 13 exfat_generic_pread
+62:   FUNC GLOBAL DEFAULT 13 exfat_seek
+63:   FUNC GLOBAL DEFAULT 13 exfat_warn
+64:   FUNC GLOBAL DEFAULT 13 exfat_cache_directory
+65:   FUNC GLOBAL DEFAULT 13 exfat_rename
+66:   FUNC GLOBAL DEFAULT 13 exfat_print_info
+67:   FUNC GLOBAL DEFAULT 13 exfat_vbr_start_checksum
+68:   FUNC GLOBAL DEFAULT 13 exfat_mknod
+69:   FUNC GLOBAL DEFAULT 13 exfat_error
+70:   FUNC GLOBAL DEFAULT 13 exfat_flush_nodes
+71:   FUNC GLOBAL DEFAULT 13 exfat_get_size
+72:   FUNC GLOBAL DEFAULT 13 exfat_lookup
+73:   FUNC GLOBAL DEFAULT 13 exfat_tzset
+74:   FUNC GLOBAL DEFAULT 13 exfat_pwrite
+75:   FUNC GLOBAL DEFAULT 13 exfat_write
+76:   FUNC GLOBAL DEFAULT 13 exfat_readdir
+77:   FUNC GLOBAL DEFAULT 13 exfat_add_checksum
+78:   FUNC GLOBAL DEFAULT 13 exfat_set_label
+79:   FUNC GLOBAL DEFAULT 13 exfat_pread
+80:   FUNC GLOBAL DEFAULT 13 exfat_read
+81:   FUNC GLOBAL DEFAULT 13 exfat_split
+82:   FUNC GLOBAL DEFAULT 13 exfat_stat
+83:   OBJECT GLOBAL DEFAULT 21 exfat_errors
+84:   FUNC GLOBAL DEFAULT 13 exfat_cleanup_node
+85:   FUNC GLOBAL DEFAULT 13 exfat_bug
+86:   FUNC GLOBAL DEFAULT 13 exfat_count_free_clusters
+87:   FUNC GLOBAL DEFAULT 13 exfat_update_mtime
+88:   FUNC GLOBAL DEFAULT 13 exfat_put_node
+89:   FUNC GLOBAL DEFAULT 13 exfat_exfat2unix
+90:   FUNC GLOBAL DEFAULT 13 exfat_rmdir
+91:   FUNC GLOBAL DEFAULT 13 exfat_unix2exfat
+92:   FUNC GLOBAL DEFAULT 13 exfat_get_label
+93:   FUNC GLOBAL DEFAULT 13 exfat_next_cluster
+94:   FUNC GLOBAL DEFAULT 13 exfat_get_name
+95:   FUNC GLOBAL DEFAULT 13 exfat_start_checksum
+96:   FUNC GLOBAL DEFAULT 13 utf16_length
+97:   FUNC GLOBAL DEFAULT 13 exfat_opendir
+98:   FUNC GLOBAL DEFAULT 13 exfat_unlink
+99:   FUNC GLOBAL DEFAULT 13 exfat_flush
+100:   FUNC GLOBAL DEFAULT 13 exfat_open
+101:   FUNC GLOBAL DEFAULT 13 exfat_update_atime
+102:   FUNC GLOBAL DEFAULT 13 exfat_advance_cluster
+103:   FUNC GLOBAL DEFAULT 13 exfat_find_used_sectors
+104:   FUNC GLOBAL DEFAULT 13 exfat_fsync
+105:   FUNC GLOBAL DEFAULT 13 exfat_mount

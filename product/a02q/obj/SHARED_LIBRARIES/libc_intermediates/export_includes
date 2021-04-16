@@ -1,0 +1,1 @@
+-Ibionic/libc/include -D__LIBC_API__=10000

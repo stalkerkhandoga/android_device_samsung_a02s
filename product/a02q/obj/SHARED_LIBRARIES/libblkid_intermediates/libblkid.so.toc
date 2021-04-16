@@ -1,0 +1,391 @@
+ 0x000000000000000e (SONAME)             Library soname: [libblkid.so]
+  
+Symbol   contains 387 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND calloc@LIBC (2)
+4:   FUNC GLOBAL DEFAULT UND fprintf@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND fputc@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND getpid@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND safe_getenv
+9:   FUNC GLOBAL DEFAULT UND stat@LIBC (2)
+10:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND strdup@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND vfprintf@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND __fgets_chk@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND __strchr_chk@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND fclose@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND feof@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND fopen@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND strcasecmp@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND strchr@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND strncmp@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND fwrite@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+25:   FUNC GLOBAL DEFAULT UND puts@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND strcpy@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND strlen@LIBC (2)
+28:   FUNC GLOBAL DEFAULT UND __vsnprintf_chk@LIBC (2)
+29:   FUNC GLOBAL DEFAULT UND __vsprintf_chk@LIBC (2)
+30:   FUNC GLOBAL DEFAULT UND access@LIBC (2)
+31:   FUNC GLOBAL DEFAULT UND canonicalize_dm_name
+32:   FUNC GLOBAL DEFAULT UND closedir@LIBC (2)
+33:   FUNC GLOBAL DEFAULT UND dirfd@LIBC (2)
+34:   FUNC GLOBAL DEFAULT UND fstat_at
+35:   FUNC GLOBAL DEFAULT UND opendir@LIBC (2)
+36:   FUNC GLOBAL DEFAULT UND readdir@LIBC (2)
+37:   FUNC GLOBAL DEFAULT UND sscanf@LIBC (2)
+38:   FUNC GLOBAL DEFAULT UND strstr@LIBC (2)
+39:   FUNC GLOBAL DEFAULT UND sysfs_deinit
+40:   FUNC GLOBAL DEFAULT UND sysfs_devname_to_devno
+41:   FUNC GLOBAL DEFAULT UND sysfs_init
+42:   FUNC GLOBAL DEFAULT UND sysfs_read_int
+43:   FUNC GLOBAL DEFAULT UND time@LIBC (2)
+44:   FUNC GLOBAL DEFAULT UND __strlen_chk@LIBC (2)
+45:   FUNC GLOBAL DEFAULT UND memcmp@LIBC (2)
+46:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (2)
+47:   FUNC GLOBAL DEFAULT UND sysfs_devno_to_devpath
+48:   FUNC GLOBAL DEFAULT UND sysfs_devno_to_wholedisk
+49:   FUNC GLOBAL DEFAULT UND isspace@LIBC (2)
+50:   FUNC GLOBAL DEFAULT UND strnlen
+51:   FUNC GLOBAL DEFAULT UND canonicalize_path
+52:   FUNC GLOBAL DEFAULT UND ferror@LIBC (2)
+53:   FUNC GLOBAL DEFAULT UND fputs@LIBC (2)
+54:   FUNC GLOBAL DEFAULT UND blkdev_get_size
+55:   FUNC GLOBAL DEFAULT UND getenv@LIBC (2)
+56:   FUNC GLOBAL DEFAULT UND strtok_r@LIBC (2)
+57:   FUNC GLOBAL DEFAULT UND strtoul@LIBC (2)
+58:   FUNC GLOBAL DEFAULT UND lseek@LIBC (2)
+59:   FUNC GLOBAL DEFAULT UND __memset_chk@LIBC (2)
+60:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+61:   FUNC GLOBAL DEFAULT UND blkdev_get_sector_size
+62:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+63:   FUNC GLOBAL DEFAULT UND fstat@LIBC (2)
+64:   FUNC GLOBAL DEFAULT UND fsync@LIBC (2)
+65:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+66:   FUNC GLOBAL DEFAULT UND memmove@LIBC (2)
+67:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+68:   FUNC GLOBAL DEFAULT UND read@LIBC (2)
+69:   FUNC GLOBAL DEFAULT UND strtoll@LIBC (2)
+70:   FUNC GLOBAL DEFAULT UND sysfs_devno_is_lvm_privat
+71:   FUNC GLOBAL DEFAULT UND usleep@LIBC (2)
+72:   FUNC GLOBAL DEFAULT UND write@LIBC (2)
+73:   FUNC GLOBAL DEFAULT UND fdopen@LIBC (2)
+74:   FUNC GLOBAL DEFAULT UND fgets@LIBC (2)
+75:   FUNC GLOBAL DEFAULT UND strndup
+76:   FUNC GLOBAL DEFAULT UND strrchr@LIBC (2)
+77:   FUNC GLOBAL DEFAULT UND strtol@LIBC (2)
+78:   FUNC GLOBAL DEFAULT UND fchmod@LIBC (2)
+79:   FUNC GLOBAL DEFAULT UND link@LIBC (2)
+80:   FUNC GLOBAL DEFAULT UND mkdir@LIBC (2)
+81:   FUNC GLOBAL DEFAULT UND mkstemp@LIBC (2)
+82:   FUNC GLOBAL DEFAULT UND rename@LIBC (2)
+83:   FUNC GLOBAL DEFAULT UND unlink@LIBC (2)
+84:   FUNC GLOBAL DEFAULT UND crc32
+85:   FUNC GLOBAL DEFAULT UND realloc@LIBC (2)
+86:   FUNC GLOBAL DEFAULT UND strncasecmp@LIBC (2)
+87:   FUNC GLOBAL DEFAULT UND strncpy@LIBC (2)
+88:   FUNC GLOBAL DEFAULT UND strsep@LIBC (2)
+89:   FUNC GLOBAL DEFAULT UND sysfs_read_u64
+90:   FUNC GLOBAL DEFAULT UND sysfs_strdup
+91:   FUNC GLOBAL DEFAULT UND crc64
+92:   FUNC GLOBAL DEFAULT UND MD5Final
+93:   FUNC GLOBAL DEFAULT UND MD5Init
+94:   FUNC GLOBAL DEFAULT UND MD5Update
+95:   FUNC GLOBAL DEFAULT UND dup2@LIBC (2)
+96:   FUNC GLOBAL DEFAULT UND execv@LIBC (2)
+97:   FUNC GLOBAL DEFAULT UND exit@LIBC (2)
+98:   FUNC GLOBAL DEFAULT UND fork@LIBC (2)
+99:   FUNC GLOBAL DEFAULT UND fscanf@LIBC (2)
+100:   FUNC GLOBAL DEFAULT UND getgid@LIBC (2)
+101:   FUNC GLOBAL DEFAULT UND getuid@LIBC (2)
+102:   FUNC GLOBAL DEFAULT UND pipe@LIBC (2)
+103:   FUNC GLOBAL DEFAULT UND setgid@LIBC (2)
+104:   FUNC GLOBAL DEFAULT UND setuid@LIBC (2)
+105:   FUNC GLOBAL DEFAULT UND sysfs_has_attribute
+106:   FUNC GLOBAL DEFAULT UND sysfs_read_s64
+107:   OBJECT GLOBAL DEFAULT 17 iswraid_idinfo
+108:   OBJECT GLOBAL DEFAULT 17 ocfs_idinfo
+109:   FUNC GLOBAL DEFAULT 13 blkid_flush_cache
+110:   FUNC GLOBAL DEFAULT 13 blkid_probe_reset_last_va
+111:   FUNC GLOBAL DEFAULT 13 blkid_find_dev_with_tag
+112:   FUNC GLOBAL DEFAULT 13 blkid_tag_iterate_begin
+113:   OBJECT GLOBAL DEFAULT 17 bcache_idinfo
+114:   OBJECT GLOBAL DEFAULT 17 jbd_idinfo
+115:   FUNC GLOBAL DEFAULT 13 blkid_known_fstype
+116:   FUNC GLOBAL DEFAULT 13 blkid_tag_next
+117:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_sectorsiz
+118:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_magic
+119:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_uuid
+120:   FUNC GLOBAL DEFAULT 13 blkid_partlist_numof_part
+121:   OBJECT GLOBAL DEFAULT 17 ufs_idinfo
+122:   FUNC GLOBAL DEFAULT 13 blkid_ltrim_whitespace
+123:   FUNC GLOBAL DEFAULT 13 __blkid_probe_lookup_valu
+124:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_size
+125:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_value
+126:   FUNC GLOBAL DEFAULT 13 blkid_probe_verify_csum
+127:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_superbloc
+128:   OBJECT GLOBAL DEFAULT 17 evms_tp_idinfo
+129:   FUNC GLOBAL DEFAULT 13 blkid_probe_strncpy_uuid
+130:   FUNC GLOBAL DEFAULT 13 blkid_do_wipe
+131:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_name
+132:   FUNC GLOBAL DEFAULT 13 blkid_probe_sprintf_uuid
+133:   OBJECT GLOBAL DEFAULT 17 xenix_idinfo
+134:   FUNC GLOBAL DEFAULT 13 blkid__scan_dir
+135:   FUNC GLOBAL DEFAULT 13 blkid_encode_to_utf8
+136:   FUNC GLOBAL DEFAULT 13 blkid_new_probe_from_file
+137:   FUNC GLOBAL DEFAULT 13 blkid_partitions_set_ptuu
+138:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_id_label
+139:   FUNC GLOBAL DEFAULT 13 blkid_devno_to_devname
+140:   FUNC GLOBAL DEFAULT 13 __blkid_probe_reset_filte
+141:   FUNC GLOBAL DEFAULT 13 blkid_probe_step_back
+142:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_flags
+143:   OBJECT GLOBAL DEFAULT 17 highpoint37x_idinfo
+144:   OBJECT GLOBAL DEFAULT 17 netware_idinfo
+145:   FUNC GLOBAL DEFAULT 13 blkid_uuid_is_empty
+146:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_utf8n
+147:   OBJECT GLOBAL DEFAULT 17 adraid_idinfo
+148:   FUNC GLOBAL DEFAULT 13 blkid_get_library_version
+149:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_wiped
+150:   OBJECT GLOBAL DEFAULT 17 linuxraid_idinfo
+151:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_fd
+152:   OBJECT GLOBAL DEFAULT 17 solaris_x86_pt_idinfo
+153:   FUNC GLOBAL DEFAULT 13 blkid_partitions_get_flag
+154:   FUNC GLOBAL DEFAULT 13 blkid_known_pttype
+155:   OBJECT GLOBAL DEFAULT 17 sun_pt_idinfo
+156:   OBJECT GLOBAL DEFAULT 17 ubifs_idinfo
+157:   FUNC GLOBAL DEFAULT 13 blkid_devno_to_wholedisk
+158:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_uuid
+159:   FUNC GLOBAL DEFAULT 13 blkid_partlist_new_partta
+160:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_type
+161:   FUNC GLOBAL DEFAULT 13 blkid_parttable_set_uuid
+162:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_type_
+163:   FUNC GLOBAL DEFAULT 13 probe_iso9660
+164:   OBJECT GLOBAL DEFAULT 17 squashfs3_idinfo
+165:   OBJECT GLOBAL DEFAULT 17 udf_idinfo
+166:   FUNC GLOBAL DEFAULT 13 blkid_probe_enable_topolo
+167:   FUNC GLOBAL DEFAULT 13 blkid_new_probe
+168:   FUNC GLOBAL DEFAULT 13 blkid_get_dev
+169:   FUNC GLOBAL DEFAULT 13 blkid_probe_vsprintf_valu
+170:   OBJECT GLOBAL DEFAULT 17 bsd_pt_idinfo
+171:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_vfat
+172:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_name
+173:   OBJECT GLOBAL DEFAULT 17 iso9660_idinfo
+174:   OBJECT GLOBAL DEFAULT 17 silraid_idinfo
+175:   FUNC GLOBAL DEFAULT 13 blkid_init_debug
+176:   FUNC GLOBAL DEFAULT 13 blkid_clone_probe
+177:   FUNC GLOBAL DEFAULT 13 blkid_reset_probe
+178:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_type_
+179:   OBJECT GLOBAL DEFAULT 17 ocfs2_idinfo
+180:   OBJECT GLOBAL DEFAULT 17 vmfs_volume_idinfo
+181:   FUNC GLOBAL DEFAULT 13 blkid_dev_set_search
+182:   FUNC GLOBAL DEFAULT 13 blkid_safe_string
+183:   FUNC GLOBAL DEFAULT 13 blkid_parse_version_strin
+184:   FUNC GLOBAL DEFAULT 13 blkid_parttable_get_offse
+185:   OBJECT GLOBAL DEFAULT 17 minix_idinfo
+186:   FUNC GLOBAL DEFAULT 13 blkid_topology_get_minimu
+187:   FUNC GLOBAL DEFAULT 13 blkid_do_safeprobe
+188:   FUNC GLOBAL DEFAULT 13 blkid_is_nested_dimension
+189:   OBJECT GLOBAL DEFAULT 17 gfs_idinfo
+190:   OBJECT GLOBAL DEFAULT 17 lsiraid_idinfo
+191:   OBJECT GLOBAL DEFAULT 17 reiser_idinfo
+192:   FUNC GLOBAL DEFAULT 13 blkid_probe_filter_superb
+193:   FUNC GLOBAL DEFAULT 13 blkid_probe_invert_partit
+194:   FUNC GLOBAL DEFAULT 13 blkid_topology_set_optima
+195:   OBJECT GLOBAL DEFAULT 17 sysfs_tp_idinfo
+196:   FUNC GLOBAL DEFAULT 13 blkid_verify
+197:   FUNC GLOBAL DEFAULT 13 blkid_partlist_get_partit
+198:   OBJECT GLOBAL DEFAULT 17 gfs2_idinfo
+199:   OBJECT GLOBAL DEFAULT 17 reiser4_idinfo
+200:   FUNC GLOBAL DEFAULT 13 blkid_new_dev
+201:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_tiny
+202:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_type
+203:   OBJECT GLOBAL DEFAULT 17 f2fs_idinfo
+204:   OBJECT GLOBAL DEFAULT 17 highpoint45x_idinfo
+205:   OBJECT GLOBAL DEFAULT 17 romfs_idinfo
+206:   OBJECT GLOBAL DEFAULT 17 xfs_idinfo
+207:   FUNC GLOBAL DEFAULT 13 blkid_probe_lookup_value
+208:   FUNC GLOBAL DEFAULT 13 blkid_partition_is_extend
+209:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_partition
+210:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_uuid
+211:   OBJECT GLOBAL DEFAULT 17 squashfs_idinfo
+212:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_sector
+213:   FUNC GLOBAL DEFAULT 13 blkid_probe_sprintf_versi
+214:   FUNC GLOBAL DEFAULT 13 probe_raid
+215:   FUNC GLOBAL DEFAULT 13 blkid_get_devname
+216:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_wholedisk
+217:   OBJECT GLOBAL DEFAULT 17 superblocks_drv
+218:   FUNC GLOBAL DEFAULT 13 blkid_set_tag
+219:   FUNC GLOBAL DEFAULT 13 blkid_probe_reset_superbl
+220:   OBJECT GLOBAL DEFAULT 17 ddfraid_idinfo
+221:   FUNC GLOBAL DEFAULT 13 blkid_probe_filter_usage
+222:   FUNC GLOBAL DEFAULT 13 blkid_dev_iterate_end
+223:   FUNC GLOBAL DEFAULT 13 blkid_probe_append_vals
+224:   OBJECT GLOBAL DEFAULT 17 hfs_idinfo
+225:   OBJECT GLOBAL DEFAULT 17 ntfs_idinfo
+226:   FUNC GLOBAL DEFAULT 13 blkid_dev_next
+227:   FUNC GLOBAL DEFAULT 13 blkid_probe_reset_filter
+228:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_binary_da
+229:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_dimension
+230:   FUNC GLOBAL DEFAULT 13 blkid_partlist_add_partit
+231:   FUNC GLOBAL DEFAULT 13 blkid_superblocks_get_nam
+232:   FUNC GLOBAL DEFAULT 13 blkid_topology_get_alignm
+233:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_wholedisk
+234:   OBJECT GLOBAL DEFAULT 17 topology_drv
+235:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_flags
+236:   FUNC GLOBAL DEFAULT 13 blkid_partitions_strcpy_p
+237:   OBJECT GLOBAL DEFAULT 17 refs_idinfo
+238:   FUNC GLOBAL DEFAULT 13 blkid_partitions_do_subpr
+239:   FUNC GLOBAL DEFAULT 13 blkid_parttable_set_id
+240:   OBJECT GLOBAL DEFAULT 17 ext2_idinfo
+241:   FUNC GLOBAL DEFAULT 13 blkid_partlist_get_parent
+242:   OBJECT GLOBAL DEFAULT 17 pmbr_pt_idinfo
+243:   OBJECT GLOBAL DEFAULT 17 ext4dev_idinfo
+244:   FUNC GLOBAL DEFAULT 13 blkid_topology_get_logica
+245:   FUNC GLOBAL DEFAULT 13 blkid_llseek
+246:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_filter
+247:   OBJECT GLOBAL DEFAULT 17 vfat_idinfo
+248:   FUNC GLOBAL DEFAULT 13 blkid_free_config
+249:   OBJECT GLOBAL DEFAULT 21 libblkid_debug_mask
+250:   FUNC GLOBAL DEFAULT 13 blkid_dev_has_tag
+251:   FUNC GLOBAL DEFAULT 13 blkid_do_fullprobe
+252:   FUNC GLOBAL DEFAULT 13 blkid_parttable_get_type
+253:   FUNC GLOBAL DEFAULT 13 blkid_topology_set_physic
+254:   OBJECT GLOBAL DEFAULT 17 md_tp_idinfo
+255:   FUNC GLOBAL DEFAULT 13 blkid_do_probe
+256:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_wholedisk
+257:   FUNC GLOBAL DEFAULT 13 blkid_probe_chain_reset_v
+258:   OBJECT GLOBAL DEFAULT 17 oracleasm_idinfo
+259:   OBJECT GLOBAL DEFAULT 17 swap_idinfo
+260:   OBJECT GLOBAL DEFAULT 17 zfs_idinfo
+261:   FUNC GLOBAL DEFAULT 13 blkid_free_tag
+262:   FUNC GLOBAL DEFAULT 13 blkid_probe_has_value
+263:   FUNC GLOBAL DEFAULT 13 blkid_partition_is_logica
+264:   FUNC GLOBAL DEFAULT 13 blkid_probe_reset_partiti
+265:   OBJECT GLOBAL DEFAULT 17 drbd_idinfo
+266:   OBJECT GLOBAL DEFAULT 17 ext3_idinfo
+267:   OBJECT GLOBAL DEFAULT 21 evms_stripe_info
+268:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_topology
+269:   OBJECT GLOBAL DEFAULT 17 vxfs_idinfo
+270:   FUNC GLOBAL DEFAULT 13 blkid_gc_cache
+271:   FUNC GLOBAL DEFAULT 13 blkid_debug_dump_tag
+272:   OBJECT GLOBAL DEFAULT 17 cramfs_idinfo
+273:   FUNC GLOBAL DEFAULT 13 blkid_probe_filter_types
+274:   OBJECT GLOBAL DEFAULT 17 lvm_tp_idinfo
+275:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_devno
+276:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_idmag
+277:   FUNC GLOBAL DEFAULT 13 blkid_probe_filter_partit
+278:   OBJECT GLOBAL DEFAULT 17 jfs_idinfo
+279:   OBJECT GLOBAL DEFAULT 17 luks_idinfo
+280:   FUNC GLOBAL DEFAULT 13 __blkid_probe_get_value
+281:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_cdrom
+282:   OBJECT GLOBAL DEFAULT 17 exfat_idinfo
+283:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_request
+284:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_device
+285:   OBJECT GLOBAL DEFAULT 17 hfsplus_idinfo
+286:   OBJECT GLOBAL DEFAULT 17 pdcraid_idinfo
+287:   FUNC GLOBAL DEFAULT 13 blkid_topology_set_minimu
+288:   FUNC GLOBAL DEFAULT 13 __blkid_probe_filter_type
+289:   FUNC GLOBAL DEFAULT 13 blkid_partlist_devno_to_p
+290:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_utf8label
+291:   OBJECT GLOBAL DEFAULT 17 swsuspend_idinfo
+292:   FUNC GLOBAL DEFAULT 13 blkid_unparse_uuid
+293:   FUNC GLOBAL DEFAULT 13 blkid_partlist_get_partit
+294:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_uuid_as
+295:   OBJECT GLOBAL DEFAULT 17 ext4_idinfo
+296:   FUNC GLOBAL DEFAULT 13 blkid_read_cache
+297:   FUNC GLOBAL DEFAULT 13 blkid_partitions_need_typ
+298:   FUNC GLOBAL DEFAULT 13 blkid_partlist_set_parent
+299:   OBJECT GLOBAL DEFAULT 17 dm_tp_idinfo
+300:   FUNC GLOBAL DEFAULT 13 blkid_dev_devname
+301:   FUNC GLOBAL DEFAULT 13 blkid_encode_string
+302:   OBJECT GLOBAL DEFAULT 17 btrfs_idinfo
+303:   OBJECT GLOBAL DEFAULT 17 partitions_drv
+304:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_partition
+305:   FUNC GLOBAL DEFAULT 13 blkid_partlist_get_table
+306:   OBJECT GLOBAL DEFAULT 17 lvm1_idinfo
+307:   FUNC GLOBAL DEFAULT 13 blkid_partition_set_type_
+308:   FUNC GLOBAL DEFAULT 13 blkid_probe_filter_superb
+309:   FUNC GLOBAL DEFAULT 13 blkid_probe_is_covered_by
+310:   OBJECT GLOBAL DEFAULT 17 viaraid_idinfo
+311:   FUNC GLOBAL DEFAULT 13 blkid_free_dev
+312:   FUNC GLOBAL DEFAULT 13 blkid_find_tag_dev
+313:   FUNC GLOBAL DEFAULT 13 blkid_free_probe
+314:   FUNC GLOBAL DEFAULT 13 blkid_evaluate_spec
+315:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_value
+316:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_wiper
+317:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_size
+318:   OBJECT GLOBAL DEFAULT 17 minix_pt_idinfo
+319:   FUNC GLOBAL DEFAULT 13 blkid_parttable_get_paren
+320:   OBJECT GLOBAL DEFAULT 17 sgi_pt_idinfo
+321:   FUNC GLOBAL DEFAULT 13 blkid_debug_dump_dev
+322:   FUNC GLOBAL DEFAULT 13 blkid_send_uevent
+323:   FUNC GLOBAL DEFAULT 13 blkid_probe_use_wiper
+324:   FUNC GLOBAL DEFAULT 13 blkid_probe_enable_partit
+325:   OBJECT GLOBAL DEFAULT 17 dos_pt_idinfo
+326:   FUNC GLOBAL DEFAULT 13 blkid_partition_is_primar
+327:   OBJECT GLOBAL DEFAULT 17 ultrix_pt_idinfo
+328:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_label
+329:   FUNC GLOBAL DEFAULT 13 blkid_probe_chain_copy_va
+330:   FUNC GLOBAL DEFAULT 13 blkid_probe_sprintf_value
+331:   FUNC GLOBAL DEFAULT 13 blkid_tag_iterate_end
+332:   OBJECT GLOBAL DEFAULT 17 unixware_pt_idinfo
+333:   OBJECT GLOBAL DEFAULT 17 gpt_pt_idinfo
+334:   FUNC GLOBAL DEFAULT 13 __blkid_probe_invert_filt
+335:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_table
+336:   OBJECT GLOBAL DEFAULT 17 bfs_idinfo
+337:   OBJECT GLOBAL DEFAULT 17 lvm2_idinfo
+338:   FUNC GLOBAL DEFAULT 13 blkid_probe_invert_filter
+339:   FUNC GLOBAL DEFAULT 13 blkid_get_cache
+340:   OBJECT GLOBAL DEFAULT 17 verity_hash_idinfo
+341:   FUNC GLOBAL DEFAULT 13 blkid_dev_iterate_begin
+342:   FUNC GLOBAL DEFAULT 13 blkid_probe_assign_value
+343:   FUNC GLOBAL DEFAULT 13 blkid_probe_set_version
+344:   OBJECT GLOBAL DEFAULT 17 hpfs_idinfo
+345:   FUNC GLOBAL DEFAULT 13 blkid_topology_set_alignm
+346:   FUNC GLOBAL DEFAULT 13 blkid_driver_has_major
+347:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_offset
+348:   FUNC GLOBAL DEFAULT 13 blkid_probe_all
+349:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_dimension
+350:   OBJECT GLOBAL DEFAULT 17 drbdproxy_datalog_idinfo
+351:   OBJECT GLOBAL DEFAULT 17 snapcow_idinfo
+352:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_sectors
+353:   FUNC GLOBAL DEFAULT 13 blkid_put_cache
+354:   FUNC GLOBAL DEFAULT 13 blkid_parse_tag_string
+355:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_start
+356:   FUNC GLOBAL DEFAULT 13 blkid_probe_invert_superb
+357:   FUNC GLOBAL DEFAULT 13 blkid_get_cache_filename
+358:   FUNC GLOBAL DEFAULT 13 blkid_probe_numof_values
+359:   FUNC GLOBAL DEFAULT 13 blkid_get_tag_value
+360:   OBJECT GLOBAL DEFAULT 17 befs_idinfo
+361:   OBJECT GLOBAL DEFAULT 17 vmfs_fs_idinfo
+362:   FUNC GLOBAL DEFAULT 13 blkid_probe_all_removable
+363:   FUNC GLOBAL DEFAULT 13 blkid_probe_all_new
+364:   FUNC GLOBAL DEFAULT 13 blkid_partition_gen_uuid
+365:   OBJECT GLOBAL DEFAULT 17 mac_pt_idinfo
+366:   OBJECT GLOBAL DEFAULT 17 nilfs2_idinfo
+367:   FUNC GLOBAL DEFAULT 13 blkid_topology_get_physic
+368:   FUNC GLOBAL DEFAULT 13 blkid_get_dev_size
+369:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_buffer
+370:   FUNC GLOBAL DEFAULT 13 blkid_rtrim_whitespace
+371:   OBJECT GLOBAL DEFAULT 17 aix_pt_idinfo
+372:   FUNC GLOBAL DEFAULT 13 blkid_partlist_increment_
+373:   FUNC GLOBAL DEFAULT 13 blkid_partition_get_partn
+374:   FUNC GLOBAL DEFAULT 13 blkid_parttable_get_id
+375:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_chain
+376:   FUNC GLOBAL DEFAULT 13 blkid_probe_get_partlist
+377:   FUNC GLOBAL DEFAULT 13 blkid_partlist_set_partno
+378:   OBJECT GLOBAL DEFAULT 17 nvraid_idinfo
+379:   OBJECT GLOBAL DEFAULT 17 xfs_log_idinfo
+380:   OBJECT GLOBAL DEFAULT 17 ioctl_tp_idinfo
+381:   FUNC GLOBAL DEFAULT 13 blkid_evaluate_tag
+382:   FUNC GLOBAL DEFAULT 13 blkid_probe_enable_superb
+383:   OBJECT GLOBAL DEFAULT 17 jmraid_idinfo
+384:   OBJECT GLOBAL DEFAULT 17 sysv_idinfo
+385:   FUNC GLOBAL DEFAULT 13 blkid_topology_get_optima
+386:   FUNC GLOBAL DEFAULT 13 blkid_read_config

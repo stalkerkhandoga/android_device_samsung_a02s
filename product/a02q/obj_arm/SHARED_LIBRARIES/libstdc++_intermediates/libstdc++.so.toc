@@ -1,0 +1,42 @@
+ 0x0000000e (SONAME)                     Library soname: [libstdc++.so]
+  
+Symbol   contains 38 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (3)
+2:   FUNC GLOBAL DEFAULT UND __errno@LIBC (3)
+3:   FUNC GLOBAL DEFAULT UND syscall@LIBC (3)
+4:   FUNC GLOBAL DEFAULT UND abort@LIBC (3)
+5:   FUNC GLOBAL DEFAULT UND free@LIBC (3)
+6:   FUNC GLOBAL DEFAULT UND malloc@LIBC (3)
+7:   FUNC GLOBAL DEFAULT UND __assert@LIBC (3)
+8:   FUNC GLOBAL DEFAULT UND __memcpy_chk@LIBC (3)
+9:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (3)
+10:   OBJECT GLOBAL DEFAULT UND __stack_chk_guard@LIBC (3)
+11:   FUNC GLOBAL DEFAULT UND __strlcpy_chk@LIBC (3)
+12:   FUNC GLOBAL DEFAULT UND __strlen_chk@LIBC (3)
+13:   FUNC GLOBAL DEFAULT UND android_set_abort_message@LIBC (3)
+14:   FUNC GLOBAL DEFAULT UND clock_gettime@LIBC (3)
+15:   FUNC GLOBAL DEFAULT UND connect@LIBC (3)
+16:   FUNC GLOBAL DEFAULT UND gettid@LIBC (3)
+17:   FUNC GLOBAL DEFAULT UND socket@LIBC (3)
+18:   FUNC GLOBAL DEFAULT UND strlen@LIBC (3)
+19:   FUNC GLOBAL DEFAULT UND writev@LIBC (3)
+20:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (3)
+21:   FUNC WEAK DEFAULT UND __gnu_Unwind_Find_exidx@LIBC_N (4)
+22:   NOTYPE WEAK DEFAULT UND __cxa_begin_cleanup
+23:   NOTYPE WEAK DEFAULT UND __cxa_type_match
+24:   NOTYPE WEAK DEFAULT UND __cxa_call_unexpected
+25:   FUNC GLOBAL DEFAULT 15 __cxa_guard_abort@@LIBC_O
+26:   FUNC GLOBAL DEFAULT 15 __cxa_guard_release@@LIBC_O
+27:   FUNC GLOBAL DEFAULT 15 _ZdaPv@@LIBC_O
+28:   FUNC GLOBAL DEFAULT 15 _ZdaPvRKSt9nothrow_t@@LIBC_O
+29:   FUNC GLOBAL DEFAULT 15 _ZdlPv@@LIBC_O
+30:   FUNC GLOBAL DEFAULT 15 _Znaj@@LIBC_O
+31:   FUNC GLOBAL DEFAULT 15 _Znwj@@LIBC_O
+32:   OBJECT GLOBAL DEFAULT 13 _ZSt7nothrow@@LIBC_O
+33:   FUNC GLOBAL DEFAULT 15 _ZdlPvRKSt9nothrow_t@@LIBC_O
+34:   FUNC GLOBAL DEFAULT 15 _ZnwjRKSt9nothrow_t@@LIBC_O
+35:   FUNC GLOBAL DEFAULT 15 __cxa_guard_acquire@@LIBC_O
+36:   FUNC GLOBAL DEFAULT 15 __cxa_pure_virtual@@LIBC_O
+37:   FUNC GLOBAL DEFAULT 15 _ZnajRKSt9nothrow_t@@LIBC_O
