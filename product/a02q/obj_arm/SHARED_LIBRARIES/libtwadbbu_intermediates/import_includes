@@ -1,0 +1,6 @@
+-Iexternal/zlib
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Ibionic/libc/include -D__LIBC_API__=10000
+-D__LIBM_API__=10000
+-D__LIBDL_API__=10000

@@ -1,0 +1,24 @@
+ 0x0000000e (SONAME)                     Library soname: [libasyncio.so]
+  
+Symbol   contains 20 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND syscall@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+4:   OBJECT GLOBAL DEFAULT UND __stack_chk_guard@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+6:   FUNC GLOBAL DEFAULT 12 io_cancel
+7:   FUNC GLOBAL DEFAULT 12 io_destroy
+8:   FUNC GLOBAL DEFAULT 12 __aeabi_memclr8
+9:   FUNC GLOBAL DEFAULT 12 __aeabi_memset8
+10:   FUNC GLOBAL DEFAULT 12 io_getevents
+11:   FUNC GLOBAL DEFAULT 12 io_prep
+12:   FUNC GLOBAL DEFAULT 12 io_prep_pwrite
+13:   FUNC GLOBAL DEFAULT 12 __aeabi_memset
+14:   FUNC GLOBAL DEFAULT 12 io_prep_pread
+15:   FUNC GLOBAL DEFAULT 12 io_setup
+16:   FUNC GLOBAL DEFAULT 12 io_submit
+17:   FUNC GLOBAL DEFAULT 12 __aeabi_memclr
+18:   FUNC GLOBAL DEFAULT 12 __aeabi_memclr4
+19:   FUNC GLOBAL DEFAULT 12 __aeabi_memset4

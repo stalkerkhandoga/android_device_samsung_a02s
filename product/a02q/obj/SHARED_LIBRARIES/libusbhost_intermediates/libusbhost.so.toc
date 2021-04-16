@@ -1,0 +1,74 @@
+ 0x000000000000000e (SONAME)             Library soname: [libusbhost.so]
+  
+Symbol   contains 70 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+4:   FUNC GLOBAL DEFAULT UND __poll_chk@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND __read_chk@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND __vsnprintf_chk@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND access@LIBC (2)
+9:   FUNC GLOBAL DEFAULT UND atoi@LIBC (2)
+10:   FUNC GLOBAL DEFAULT UND calloc@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND closedir@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND fwrite@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND inotify_add_watch@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND inotify_init@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND inotify_rm_watch@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND lseek@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND opendir@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND readdir@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND sscanf@LIBC (2)
+25:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND strncpy@LIBC (2)
+28:   FUNC GLOBAL DEFAULT UND usleep@LIBC (2)
+29:   FUNC GLOBAL DEFAULT 14 usb_device_control_transf
+30:   FUNC GLOBAL DEFAULT 14 usb_device_get_vendor_id
+31:   FUNC GLOBAL DEFAULT 14 usb_device_release_interf
+32:   FUNC GLOBAL DEFAULT 14 usb_request_cancel
+33:   FUNC GLOBAL DEFAULT 14 usb_request_free
+34:   FUNC GLOBAL DEFAULT 14 usb_device_bulk_transfer
+35:   FUNC GLOBAL DEFAULT 14 usb_device_get_raw_descri
+36:   FUNC GLOBAL DEFAULT 14 usb_host_cleanup
+37:   FUNC GLOBAL DEFAULT 14 usb_device_connect_kernel
+38:   FUNC GLOBAL DEFAULT 14 usb_device_set_configurat
+39:   FUNC GLOBAL DEFAULT 14 usb_host_read_event
+40:   FUNC GLOBAL DEFAULT 14 usb_device_claim_interfac
+41:   FUNC GLOBAL DEFAULT 14 usb_device_get_manufactur
+42:   FUNC GLOBAL DEFAULT 14 usb_device_get_product_id
+43:   FUNC GLOBAL DEFAULT 14 usb_device_new
+44:   FUNC GLOBAL DEFAULT 14 usb_device_set_interface
+45:   FUNC GLOBAL DEFAULT 14 usb_request_queue
+46:   FUNC GLOBAL DEFAULT 14 usb_request_wait
+47:   FUNC GLOBAL DEFAULT 14 usb_device_get_fd
+48:   FUNC GLOBAL DEFAULT 14 usb_device_get_version
+49:   FUNC GLOBAL DEFAULT 14 usb_device_reset
+50:   FUNC GLOBAL DEFAULT 14 usb_host_run
+51:   FUNC GLOBAL DEFAULT 14 usb_device_get_unique_id
+52:   FUNC GLOBAL DEFAULT 14 usb_device_open
+53:   FUNC GLOBAL DEFAULT 14 usb_host_init
+54:   FUNC GLOBAL DEFAULT 14 usb_host_load
+55:   FUNC GLOBAL DEFAULT 14 usb_device_get_device_des
+56:   FUNC GLOBAL DEFAULT 14 usb_device_get_name_from_
+57:   FUNC GLOBAL DEFAULT 14 usb_device_get_unique_id_
+58:   FUNC GLOBAL DEFAULT 14 usb_host_get_fd
+59:   FUNC GLOBAL DEFAULT 14 usb_device_get_name
+60:   FUNC GLOBAL DEFAULT 14 usb_device_get_product_na
+61:   FUNC GLOBAL DEFAULT 14 usb_device_get_string
+62:   FUNC GLOBAL DEFAULT 14 usb_device_is_writeable
+63:   FUNC GLOBAL DEFAULT 14 usb_descriptor_iter_next
+64:   FUNC GLOBAL DEFAULT 14 usb_device_get_serial
+65:   FUNC GLOBAL DEFAULT 14 usb_request_new
+66:   FUNC GLOBAL DEFAULT 14 usb_descriptor_iter_init
+67:   FUNC GLOBAL DEFAULT 14 usb_device_close
+68:   FUNC GLOBAL DEFAULT 14 usb_device_get_descriptor
+69:   FUNC GLOBAL DEFAULT 14 usb_device_get_string_ucs

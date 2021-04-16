@@ -1,0 +1,9 @@
+-Iexternal/libdrm -Iexternal/libdrm/include/drm -Iexternal/libdrm/android
+-Iexternal/selinux/libselinux/include
+-Isystem/core/libziparchive/include -Isystem/core/base/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Ibionic/libc/include -D__LIBC_API__=10000
+-D__LIBM_API__=10000
+-D__LIBDL_API__=10000
+-Ibootable/recovery/otautil/include
+-Ibootable/recovery/twrpinstall/include -Ibootable/recovery/recovery_ui/include

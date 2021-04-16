@@ -1,0 +1,66 @@
+ 0x000000000000000e (SONAME)             Library soname: [libmtdutils.so]
+  
+Symbol   contains 62 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND __fread_chk@LIBC_N (3)
+4:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND __read_chk@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND __vsprintf_chk@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND __write_chk@LIBC_N (3)
+9:   FUNC GLOBAL DEFAULT UND chmod@LIBC (2)
+10:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND fclose@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND fileno@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND fopen@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND fprintf@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND fwrite@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND lseek@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND lseek64@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND memcmp@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND mount@LIBC (2)
+25:   FUNC GLOBAL DEFAULT UND open@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND printf@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND read@LIBC (2)
+28:   FUNC GLOBAL DEFAULT UND realloc@LIBC (2)
+29:   FUNC GLOBAL DEFAULT UND sscanf@LIBC (2)
+30:   FUNC GLOBAL DEFAULT UND stat@LIBC (2)
+31:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+32:   OBJECT GLOBAL DEFAULT UND stdout@LIBC (2)
+33:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+34:   FUNC GLOBAL DEFAULT UND strdup@LIBC (2)
+35:   FUNC GLOBAL DEFAULT UND strerror@LIBC (2)
+36:   FUNC GLOBAL DEFAULT UND unlink@LIBC (2)
+37:   FUNC GLOBAL DEFAULT UND write@LIBC (2)
+38:   FUNC GLOBAL DEFAULT UND umount@LIBC (2)
+39:   FUNC GLOBAL DEFAULT 13 mtd_read_close
+40:   FUNC GLOBAL DEFAULT 13 mtd_read_data
+41:   FUNC GLOBAL DEFAULT 13 find_mounted_volume_by_de
+42:   FUNC GLOBAL DEFAULT 13 cmd_mtd_erase_partition
+43:   FUNC GLOBAL DEFAULT 13 mtd_find_partition_by_nam
+44:   FUNC GLOBAL DEFAULT 13 mtd_partition_info
+45:   FUNC GLOBAL DEFAULT 13 cmd_mtd_backup_raw_partit
+46:   FUNC GLOBAL DEFAULT 13 cmd_mtd_erase_raw_partiti
+47:   FUNC GLOBAL DEFAULT 13 mtd_write_partition
+48:   FUNC GLOBAL DEFAULT 13 unmount_mounted_volume
+49:   FUNC GLOBAL DEFAULT 13 cmd_mtd_get_partition_dev
+50:   FUNC GLOBAL DEFAULT 13 cmd_mtd_mount_partition
+51:   FUNC GLOBAL DEFAULT 13 cmd_mtd_restore_raw_parti
+52:   FUNC GLOBAL DEFAULT 13 mtd_scan_partitions
+53:   FUNC GLOBAL DEFAULT 13 mtd_write_data
+54:   FUNC GLOBAL DEFAULT 13 find_mounted_volume_by_mo
+55:   FUNC GLOBAL DEFAULT 13 scan_mounted_volumes
+56:   FUNC GLOBAL DEFAULT 13 mtd_erase_blocks
+57:   FUNC GLOBAL DEFAULT 13 mtd_find_write_start
+58:   FUNC GLOBAL DEFAULT 13 mtd_mount_partition
+59:   FUNC GLOBAL DEFAULT 13 mtd_read_partition
+60:   FUNC GLOBAL DEFAULT 13 mtd_write_close
+61:   FUNC GLOBAL DEFAULT 13 remount_read_only

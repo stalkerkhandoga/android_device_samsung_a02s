@@ -1,0 +1,276 @@
+ 0x0000000e (SONAME)                     Library soname: [libcutils.so]
+  
+Symbol   contains 272 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+3:   OBJECT GLOBAL DEFAULT UND __stack_chk_guard@LIBC (2)
+4:   FUNC GLOBAL DEFAULT UND calloc@LIBC (2)
+5:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND isspace@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+9:   FUNC GLOBAL DEFAULT UND __fgets_chk@LIBC (2)
+10:   FUNC GLOBAL DEFAULT UND atoi@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND bsearch@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND exit@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND fclose@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND fopen@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND fprintf@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND printf@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND qsort@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND realloc@LIBC (2)
+19:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND strdup@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND strerror@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND strncmp@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND strtok@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND strtol@LIBC (2)
+25:   FUNC GLOBAL DEFAULT UND strtoll@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND syscall@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND __open_2@LIBC (2)
+28:   FUNC GLOBAL DEFAULT UND close@LIBC (2)
+29:   FUNC GLOBAL DEFAULT UND lseek@LIBC (2)
+30:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+31:   FUNC GLOBAL DEFAULT UND read@LIBC (2)
+32:   FUNC GLOBAL DEFAULT UND dup@LIBC (2)
+33:   FUNC GLOBAL DEFAULT UND getsockname@LIBC (2)
+34:   FUNC GLOBAL DEFAULT UND pthread_getspecific@LIBC (2)
+35:   FUNC GLOBAL DEFAULT UND pthread_key_create@LIBC (2)
+36:   FUNC GLOBAL DEFAULT UND pthread_mutex_lock@LIBC (2)
+37:   FUNC GLOBAL DEFAULT UND pthread_mutex_unlock@LIBC (2)
+38:   FUNC GLOBAL DEFAULT UND pthread_setspecific@LIBC (2)
+39:   FUNC GLOBAL DEFAULT UND __android_log_print@LIBLOG (3)
+40:   FUNC GLOBAL DEFAULT UND __openat_2@LIBC (2)
+41:   FUNC GLOBAL DEFAULT UND __read_chk@LIBC (2)
+42:   FUNC GLOBAL DEFAULT UND __vsnprintf_chk@LIBC (2)
+43:   FUNC GLOBAL DEFAULT UND __write_chk@LIBC_N (4)
+44:   FUNC GLOBAL DEFAULT UND chmod@LIBC (2)
+45:   FUNC GLOBAL DEFAULT UND chown@LIBC (2)
+46:   FUNC GLOBAL DEFAULT UND fstatat@LIBC (2)
+47:   FUNC GLOBAL DEFAULT UND lstat@LIBC (2)
+48:   FUNC GLOBAL DEFAULT UND mkdir@LIBC (2)
+49:   FUNC GLOBAL DEFAULT UND mkdirat@LIBC (2)
+50:   FUNC GLOBAL DEFAULT UND mkstemp@LIBC (2)
+51:   FUNC GLOBAL DEFAULT UND open@LIBC (2)
+52:   FUNC GLOBAL DEFAULT UND rename@LIBC (2)
+53:   FUNC GLOBAL DEFAULT UND sscanf@LIBC (2)
+54:   FUNC GLOBAL DEFAULT UND unlink@LIBC (2)
+55:   FUNC GLOBAL DEFAULT UND pthread_mutex_destroy@LIBC (2)
+56:   FUNC GLOBAL DEFAULT UND pthread_mutex_init@LIBC (2)
+57:   FUNC GLOBAL DEFAULT UND bind@LIBC (2)
+58:   OBJECT GLOBAL DEFAULT UND in6addr_any@LIBC_N (4)
+59:   FUNC GLOBAL DEFAULT UND listen@LIBC (2)
+60:   FUNC GLOBAL DEFAULT UND setsockopt@LIBC (2)
+61:   FUNC GLOBAL DEFAULT UND socket@LIBC (2)
+62:   FUNC GLOBAL DEFAULT UND __strcat_chk@LIBC (2)
+63:   FUNC GLOBAL DEFAULT UND connect@LIBC (2)
+64:   FUNC GLOBAL DEFAULT UND strcpy@LIBC (2)
+65:   FUNC GLOBAL DEFAULT UND strlen@LIBC (2)
+66:   FUNC GLOBAL DEFAULT UND __FD_ISSET_chk@LIBC (2)
+67:   FUNC GLOBAL DEFAULT UND __FD_SET_chk@LIBC (2)
+68:   FUNC GLOBAL DEFAULT UND fcntl@LIBC (2)
+69:   FUNC GLOBAL DEFAULT UND freeaddrinfo@LIBC (2)
+70:   FUNC GLOBAL DEFAULT UND getaddrinfo@LIBC (2)
+71:   FUNC GLOBAL DEFAULT UND getsockopt@LIBC (2)
+72:   FUNC GLOBAL DEFAULT UND select@LIBC (2)
+73:   FUNC GLOBAL DEFAULT UND memcmp@LIBC (2)
+74:   FUNC GLOBAL DEFAULT UND writev@LIBC (2)
+75:   FUNC GLOBAL DEFAULT UND asprintf@LIBC (2)
+76:   FUNC GLOBAL DEFAULT UND strchr@LIBC (2)
+77:   FUNC GLOBAL DEFAULT UND strlcpy@LIBC (2)
+78:   FUNC GLOBAL DEFAULT UND strndup@LIBC (2)
+79:   FUNC GLOBAL DEFAULT UND strtof@LIBC (2)
+80:   FUNC GLOBAL DEFAULT UND strtok_r@LIBC (2)
+81:   FUNC GLOBAL DEFAULT UND _ZN7android4base12StringP
+82:   FUNC GLOBAL DEFAULT UND _ZN7android4base8Realpath
+83:   FUNC GLOBAL DEFAULT UND _ZNKSt3__121__basic_strin
+84:   FUNC GLOBAL DEFAULT UND _ZdlPv
+85:   FUNC GLOBAL DEFAULT UND _Znwj
+86:   FUNC GLOBAL DEFAULT UND getenv@LIBC (2)
+87:   FUNC GLOBAL DEFAULT UND isalnum@LIBC (2)
+88:   FUNC GLOBAL DEFAULT UND _ZN7android4base11GetProp
+89:   FUNC GLOBAL DEFAULT UND _ZN7android4base15GetBool
+90:   FUNC GLOBAL DEFAULT UND _ZNKSt3__112basic_stringI
+91:   FUNC GLOBAL DEFAULT UND __android_log_assert@LIBLOG (3)
+92:   FUNC GLOBAL DEFAULT UND __cxa_guard_acquire
+93:   FUNC GLOBAL DEFAULT UND __cxa_guard_release
+94:   FUNC GLOBAL DEFAULT UND __strlcpy_chk@LIBC (2)
+95:   FUNC WEAK DEFAULT UND android_fdsan_close_with_@LIBC_Q (5)
+96:   FUNC WEAK DEFAULT UND android_fdsan_create_owne@LIBC_Q (5)
+97:   FUNC WEAK DEFAULT UND android_fdsan_exchange_ow@LIBC_Q (5)
+98:   FUNC GLOBAL DEFAULT UND dlerror@LIBC (6)
+99:   FUNC GLOBAL DEFAULT UND dlopen@LIBC (6)
+100:   FUNC GLOBAL DEFAULT UND dlsym@LIBC (6)
+101:   FUNC GLOBAL DEFAULT UND fstat@LIBC (2)
+102:   FUNC GLOBAL DEFAULT UND ftruncate@LIBC (2)
+103:   FUNC GLOBAL DEFAULT UND ioctl@LIBC (2)
+104:   FUNC GLOBAL DEFAULT UND tolower@LIBC (2)
+105:   FUNC GLOBAL DEFAULT UND _ZN7android4base10StartsW
+106:   FUNC GLOBAL DEFAULT UND _ZN7android4base8EndsWith
+107:   FUNC GLOBAL DEFAULT UND _ZNSt3__112basic_stringIc
+108:   FUNC GLOBAL DEFAULT UND _ZNSt3__112basic_stringIc
+109:   FUNC GLOBAL DEFAULT UND fnmatch@LIBC (2)
+110:   FUNC GLOBAL DEFAULT UND strnlen@LIBC (2)
+111:   FUNC GLOBAL DEFAULT UND __strlen_chk@LIBC (2)
+112:   FUNC GLOBAL DEFAULT UND __memcpy_chk@LIBC (2)
+113:   FUNC GLOBAL DEFAULT UND __system_property_foreach@LIBC (2)
+114:   FUNC GLOBAL DEFAULT UND __system_property_get@LIBC (2)
+115:   FUNC GLOBAL DEFAULT UND __system_property_read_ca@LIBC_O (7)
+116:   FUNC GLOBAL DEFAULT UND __system_property_set@LIBC (2)
+117:   FUNC GLOBAL DEFAULT UND strtoimax@LIBC (2)
+118:   FUNC GLOBAL DEFAULT UND getpid@LIBC (2)
+119:   FUNC GLOBAL DEFAULT UND pthread_once@LIBC (2)
+120:   FUNC GLOBAL DEFAULT UND strtoull@LIBC (2)
+121:   FUNC GLOBAL DEFAULT UND recvmsg@LIBC (2)
+122:   FUNC GLOBAL DEFAULT UND abort@LIBC (2)
+123:   FUNC WEAK DEFAULT UND android_set_abort_message@LIBC (2)
+124:   FUNC GLOBAL DEFAULT UND write@LIBC (2)
+125:   FUNC GLOBAL DEFAULT UND memcpy@LIBC (2)
+126:   FUNC GLOBAL DEFAULT UND memmove@LIBC (2)
+127:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+128:   FUNC GLOBAL DEFAULT 16 thread_store_get
+129:   FUNC GLOBAL DEFAULT 16 thread_store_set
+130:   FUNC GLOBAL DEFAULT 16 multiuser_get_cache_gid
+131:   FUNC GLOBAL DEFAULT 16 __aeabi_memclr8
+132:   FUNC GLOBAL DEFAULT 16 atrace_int_body
+133:   FUNC GLOBAL DEFAULT 16 str_parms_get_int
+134:   FUNC GLOBAL DEFAULT 16 fs_config_generate
+135:   FUNC GLOBAL DEFAULT 16 atrace_setup
+136:   FUNC GLOBAL DEFAULT 16 config_set
+137:   FUNC GLOBAL DEFAULT 16 fs_write_atomic_int
+138:   FUNC GLOBAL DEFAULT 16 socket_local_server
+139:   FUNC GLOBAL DEFAULT 16 _Z16dummyUntagSocketi
+140:   FUNC GLOBAL DEFAULT 16 atrace_begin_body
+141:   FUNC GLOBAL DEFAULT 16 __aeabi_memmove8
+142:   FUNC GLOBAL DEFAULT 16 native_handle_clone
+143:   FUNC GLOBAL DEFAULT 16 hashmapUnlock
+144:   FUNC GLOBAL DEFAULT 16 socket_local_client_conne
+145:   FUNC GLOBAL DEFAULT 16 str_parms_create_str
+146:   FUNC GLOBAL DEFAULT 16 __aeabi_memset8
+147:   FUNC GLOBAL DEFAULT 16 _Z23socket_make_sockaddr_
+148:   FUNC GLOBAL DEFAULT 16 property_get_int32
+149:   FUNC GLOBAL DEFAULT 16 strnlen16to8
+150:   OBJECT GLOBAL DEFAULT 18 atrace_enabled_tags
+151:   FUNC GLOBAL DEFAULT 16 atrace_set_debuggable
+152:   FUNC GLOBAL DEFAULT 16 load_canned_fs_config
+153:   FUNC GLOBAL DEFAULT 16 __aeabi_memmove
+154:   FUNC GLOBAL DEFAULT 16 fs_mkdirs
+155:   FUNC GLOBAL DEFAULT 16 multiuser_get_shared_gid
+156:   FUNC GLOBAL DEFAULT 16 ashmem_get_size_region
+157:   FUNC GLOBAL DEFAULT 16 klog_set_level
+158:   FUNC GLOBAL DEFAULT 16 _Z18dummyDeleteTagDatajj
+159:   FUNC GLOBAL DEFAULT 16 uevent_kernel_multicast_r
+160:   FUNC GLOBAL DEFAULT 16 strdup8to16
+161:   FUNC GLOBAL DEFAULT 16 config_find
+162:   FUNC GLOBAL DEFAULT 16 canned_fs_config
+163:   FUNC GLOBAL DEFAULT 16 str_parms_has_key
+164:   OBJECT GLOBAL DEFAULT 18 atrace_marker_fd
+165:   FUNC GLOBAL DEFAULT 16 __aeabi_memcpy4
+166:   FUNC GLOBAL DEFAULT 16 config_free
+167:   FUNC GLOBAL DEFAULT 16 strcpy8to16
+168:   FUNC GLOBAL DEFAULT 16 str_parms_add_str
+169:   FUNC GLOBAL DEFAULT 16 android_get_control_file
+170:   FUNC GLOBAL DEFAULT 16 ashmem_unpin_region
+171:   OBJECT GLOBAL DEFAULT 18 __for_testing_only__andro
+172:   FUNC GLOBAL DEFAULT 16 _Z11initHandlerv
+173:   FUNC GLOBAL DEFAULT 16 qtaguid_deleteTagData
+174:   FUNC GLOBAL DEFAULT 16 hashmapFree
+175:   OBJECT GLOBAL DEFAULT 18 __for_testing_only__andro
+176:   FUNC GLOBAL DEFAULT 16 uevent_kernel_multicast_u
+177:   FUNC GLOBAL DEFAULT 16 config_load
+178:   FUNC GLOBAL DEFAULT 16 str_parms_add_int
+179:   FUNC GLOBAL DEFAULT 16 ashmem_set_prot_region
+180:   FUNC GLOBAL DEFAULT 16 klog_writev
+181:   FUNC GLOBAL DEFAULT 16 atrace_int64_body
+182:   FUNC GLOBAL DEFAULT 16 socket_get_local_port
+183:   FUNC GLOBAL DEFAULT 16 __aeabi_memcpy8
+184:   FUNC GLOBAL DEFAULT 16 hashmapLock
+185:   FUNC GLOBAL DEFAULT 16 multiuser_get_ext_cache_g
+186:   FUNC GLOBAL DEFAULT 16 socket_inaddr_any_server
+187:   FUNC GLOBAL DEFAULT 16 atrace_end_body
+188:   FUNC GLOBAL DEFAULT 16 config_load_file
+189:   FUNC GLOBAL DEFAULT 16 native_handle_delete
+190:   FUNC GLOBAL DEFAULT 16 socket_set_receive_timeou
+191:   FUNC GLOBAL DEFAULT 16 property_set
+192:   FUNC GLOBAL DEFAULT 16 ashmem_pin_region
+193:   FUNC GLOBAL DEFAULT 16 property_get
+194:   FUNC GLOBAL DEFAULT 16 android_memset32
+195:   FUNC GLOBAL DEFAULT 16 native_handle_init
+196:   FUNC GLOBAL DEFAULT 16 strcpylen8to16
+197:   FUNC GLOBAL DEFAULT 16 strlen8to16
+198:   FUNC GLOBAL DEFAULT 16 fs_read_atomic_int
+199:   FUNC GLOBAL DEFAULT 16 hashmapForEach
+200:   FUNC GLOBAL DEFAULT 16 hashmapHash
+201:   FUNC GLOBAL DEFAULT 16 ashmem_init
+202:   FUNC GLOBAL DEFAULT 16 __aeabi_memset
+203:   FUNC GLOBAL DEFAULT 16 str_parms_get_float
+204:   FUNC GLOBAL DEFAULT 16 klog_write
+205:   FUNC GLOBAL DEFAULT 16 property_get_bool
+206:   FUNC GLOBAL DEFAULT 16 hashmapRemove
+207:   FUNC GLOBAL DEFAULT 16 android_get_control_socke
+208:   FUNC GLOBAL DEFAULT 16 str_parms_destroy
+209:   FUNC GLOBAL DEFAULT 16 property_list
+210:   FUNC GLOBAL DEFAULT 16 uevent_open_socket
+211:   FUNC GLOBAL DEFAULT 16 fs_prepare_dir
+212:   FUNC GLOBAL DEFAULT 16 socket_local_client
+213:   FUNC GLOBAL DEFAULT 16 _Z16initOpenAshmemFdv
+214:   FUNC GLOBAL DEFAULT 16 ashmem_create_region
+215:   FUNC GLOBAL DEFAULT 16 multiuser_get_uid
+216:   FUNC GLOBAL DEFAULT 16 socket_send_buffers
+217:   FUNC GLOBAL DEFAULT 16 _Z18dummySetCounterSetjj
+218:   FUNC GLOBAL DEFAULT 16 config_node
+219:   FUNC GLOBAL DEFAULT 16 load_file
+220:   FUNC GLOBAL DEFAULT 16 native_handle_close
+221:   FUNC GLOBAL DEFAULT 16 hashmapPut
+222:   FUNC GLOBAL DEFAULT 16 str_parms_del
+223:   FUNC GLOBAL DEFAULT 16 android_reboot
+224:   FUNC GLOBAL DEFAULT 16 multiuser_get_ext_gid
+225:   FUNC GLOBAL DEFAULT 16 str_parms_add_float
+226:   FUNC GLOBAL DEFAULT 16 str_parms_dump
+227:   FUNC GLOBAL DEFAULT 16 atrace_set_tracing_enable
+228:   FUNC GLOBAL DEFAULT 16 atrace_update_tags
+229:   FUNC GLOBAL DEFAULT 16 native_handle_create
+230:   FUNC GLOBAL DEFAULT 16 fs_prepare_dir_strict
+231:   FUNC GLOBAL DEFAULT 16 socket_local_server_bind
+232:   FUNC GLOBAL DEFAULT 16 str_parms_to_str
+233:   FUNC GLOBAL DEFAULT 16 config_str
+234:   FUNC GLOBAL DEFAULT 16 __aeabi_memcpy
+235:   FUNC GLOBAL DEFAULT 16 hashmapCreate
+236:   FUNC GLOBAL DEFAULT 16 hashmapGet
+237:   FUNC GLOBAL DEFAULT 16 multiuser_get_shared_app_
+238:   FUNC GLOBAL DEFAULT 16 uevent_kernel_recv
+239:   FUNC GLOBAL DEFAULT 16 android_memset16
+240:   FUNC GLOBAL DEFAULT 16 atrace_async_end_body
+241:   FUNC GLOBAL DEFAULT 16 android_get_ioprio
+242:   FUNC GLOBAL DEFAULT 16 android_set_ioprio
+243:   FUNC GLOBAL DEFAULT 16 strndup16to8
+244:   FUNC GLOBAL DEFAULT 16 socket_network_client_tim
+245:   FUNC GLOBAL DEFAULT 16 str_parms_create
+246:   FUNC GLOBAL DEFAULT 16 ashmem_valid
+247:   OBJECT GLOBAL DEFAULT 18 __for_testing_only__fs_co
+248:   FUNC GLOBAL DEFAULT 16 partition_wiped
+249:   FUNC GLOBAL DEFAULT 16 record_stream_free
+250:   FUNC GLOBAL DEFAULT 16 record_stream_get_next
+251:   FUNC GLOBAL DEFAULT 16 record_stream_new
+252:   FUNC GLOBAL DEFAULT 16 multiuser_get_user_id
+253:   FUNC GLOBAL DEFAULT 16 __aeabi_memclr
+254:   FUNC GLOBAL DEFAULT 16 qtaguid_tagSocket
+255:   OBJECT GLOBAL DEFAULT 24 atrace_is_ready
+256:   FUNC GLOBAL DEFAULT 16 __aeabi_memclr4
+257:   FUNC GLOBAL DEFAULT 16 socket_network_client
+258:   FUNC GLOBAL DEFAULT 16 property_get_int64
+259:   FUNC GLOBAL DEFAULT 16 _Z14dummyTagSocketijj
+260:   FUNC GLOBAL DEFAULT 16 config_bool
+261:   FUNC GLOBAL DEFAULT 16 strncpy16to8
+262:   FUNC GLOBAL DEFAULT 16 multiuser_get_app_id
+263:   FUNC GLOBAL DEFAULT 16 __aeabi_memmove4
+264:   FUNC GLOBAL DEFAULT 16 fs_prepare_file_strict
+265:   FUNC GLOBAL DEFAULT 16 socket_close
+266:   FUNC GLOBAL DEFAULT 16 str_parms_get_str
+267:   FUNC GLOBAL DEFAULT 16 fs_config
+268:   FUNC GLOBAL DEFAULT 16 qtaguid_setCounterSet
+269:   FUNC GLOBAL DEFAULT 16 qtaguid_untagSocket
+270:   FUNC GLOBAL DEFAULT 16 atrace_async_begin_body
+271:   FUNC GLOBAL DEFAULT 16 __aeabi_memset4

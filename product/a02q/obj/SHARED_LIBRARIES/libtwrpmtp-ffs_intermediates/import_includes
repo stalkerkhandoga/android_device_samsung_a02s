@@ -1,0 +1,13 @@
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Isystem/core/libasyncio/include
+-Iexternal/zlib
+-Isystem/core/libusbhost/include
+-Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include
+-Isystem/core/libutils/include -Isystem/core/libbacktrace/include -Isystem/core/liblog/include -Isystem/core/libsystem/include -Isystem/core/libcutils/include -Isystem/core/libprocessgroup/include
+-Iexternal/selinux/libselinux/include
+-Isystem/core/base/include
+-Iexternal/libcxx/include -Iexternal/libcxxabi/include
+-Ibionic/libc/include -D__LIBC_API__=10000
+-D__LIBM_API__=10000
+-D__LIBDL_API__=10000
+-Ibootable/recovery/twrpinstall/include -Ibootable/recovery/recovery_ui/include

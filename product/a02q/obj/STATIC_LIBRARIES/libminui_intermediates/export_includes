@@ -1,0 +1,1 @@
+-Ibootable/recovery/minui/include -Isystem/core/deprecated-adf/libadf/include -Iexternal/libdrm -Iexternal/libdrm/include/drm -Iexternal/libdrm/android -Isystem/core/libsync/include

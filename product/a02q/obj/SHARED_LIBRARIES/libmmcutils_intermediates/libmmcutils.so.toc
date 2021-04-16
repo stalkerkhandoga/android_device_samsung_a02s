@@ -1,0 +1,60 @@
+ 0x000000000000000e (SONAME)             Library soname: [libmmcutils.so]
+  
+Symbol   contains 56 entries:
+Num:   Type Bind Vis Ndx Name
+0:   NOTYPE LOCAL DEFAULT UND
+1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC (2)
+2:   FUNC GLOBAL DEFAULT UND __errno@LIBC (2)
+3:   FUNC GLOBAL DEFAULT UND __fread_chk@LIBC_N (3)
+4:   FUNC GLOBAL DEFAULT UND __fwrite_chk@LIBC_N (3)
+5:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC (2)
+6:   FUNC GLOBAL DEFAULT UND __strcpy_chk@LIBC (2)
+7:   FUNC GLOBAL DEFAULT UND __vsprintf_chk@LIBC (2)
+8:   FUNC GLOBAL DEFAULT UND _exit@LIBC (2)
+9:   FUNC GLOBAL DEFAULT UND execv@LIBC (2)
+10:   FUNC GLOBAL DEFAULT UND fclose@LIBC (2)
+11:   FUNC GLOBAL DEFAULT UND fgetc@LIBC (2)
+12:   FUNC GLOBAL DEFAULT UND fileno@LIBC (2)
+13:   FUNC GLOBAL DEFAULT UND fopen@LIBC (2)
+14:   FUNC GLOBAL DEFAULT UND fork@LIBC (2)
+15:   FUNC GLOBAL DEFAULT UND fprintf@LIBC (2)
+16:   FUNC GLOBAL DEFAULT UND fputc@LIBC (2)
+17:   FUNC GLOBAL DEFAULT UND fread@LIBC (2)
+18:   FUNC GLOBAL DEFAULT UND free@LIBC (2)
+19:   FUNC GLOBAL DEFAULT UND fseek@LIBC (2)
+20:   FUNC GLOBAL DEFAULT UND fsync@LIBC (2)
+21:   FUNC GLOBAL DEFAULT UND ftell@LIBC (2)
+22:   FUNC GLOBAL DEFAULT UND fwrite@LIBC (2)
+23:   FUNC GLOBAL DEFAULT UND malloc@LIBC (2)
+24:   FUNC GLOBAL DEFAULT UND memset@LIBC (2)
+25:   FUNC GLOBAL DEFAULT UND mount@LIBC (2)
+26:   FUNC GLOBAL DEFAULT UND printf@LIBC (2)
+27:   FUNC GLOBAL DEFAULT UND puts@LIBC (2)
+28:   OBJECT GLOBAL DEFAULT UND stderr@LIBC (2)
+29:   FUNC GLOBAL DEFAULT UND strcmp@LIBC (2)
+30:   FUNC GLOBAL DEFAULT UND strcpy@LIBC (2)
+31:   FUNC GLOBAL DEFAULT UND strdup@LIBC (2)
+32:   FUNC GLOBAL DEFAULT UND strerror@LIBC (2)
+33:   FUNC GLOBAL DEFAULT UND waitpid@LIBC (2)
+34:   FUNC GLOBAL DEFAULT 13 cmd_mmc_get_partition_dev
+35:   FUNC GLOBAL DEFAULT 13 mmc_format_ext3
+36:   FUNC GLOBAL DEFAULT 13 mmc_raw_write
+37:   FUNC GLOBAL DEFAULT 13 run_exec_process
+38:   FUNC GLOBAL DEFAULT 13 cmd_mmc_mount_partition
+39:   FUNC GLOBAL DEFAULT 13 cmd_mmc_restore_raw_parti
+40:   FUNC GLOBAL DEFAULT 13 format_ext2_device
+41:   FUNC GLOBAL DEFAULT 13 mmc_raw_dump
+42:   FUNC GLOBAL DEFAULT 13 mmc_scan_partitions
+43:   OBJECT GLOBAL DEFAULT 15 vfat_partitions
+44:   FUNC GLOBAL DEFAULT 13 cmd_mmc_erase_raw_partiti
+45:   FUNC GLOBAL DEFAULT 13 mmc_mount_partition
+46:   FUNC GLOBAL DEFAULT 13 mmc_raw_read
+47:   OBJECT GLOBAL DEFAULT 20 ext3_count
+48:   FUNC GLOBAL DEFAULT 13 format_ext3_device
+49:   FUNC GLOBAL DEFAULT 13 mmc_raw_copy
+50:   FUNC GLOBAL DEFAULT 13 cmd_mmc_backup_raw_partit
+51:   FUNC GLOBAL DEFAULT 13 cmd_mmc_erase_partition
+52:   OBJECT GLOBAL DEFAULT 15 ext3_partitions
+53:   FUNC GLOBAL DEFAULT 13 mmc_find_partition_by_nam
+54:   FUNC GLOBAL DEFAULT 13 mmc_raw_dump_internal
+55:   OBJECT GLOBAL DEFAULT 20 vfat_count
